@@ -1,7 +1,7 @@
 {
-	"name":"Pearl",
-	"thumbnail":"pearl.png",
-	"screenshot":"pearl.png",
+	"name":"Vet Health",
+	"thumbnail":"vet-health.png",
+	"screenshot":"vet-health.png",
 	"templateType":"standard",
     "pageTypes": ["home"],
     "tags": {
