@@ -1,64 +1,105 @@
 {
-	"name":"Vet Health",
-	"thumbnail":"vet-health.png",
-	"screenshot":"vet-health.png",
-	"templateType":"standard",
-    "pageTypes": ["home"],
+    "name": "Vet Health",
+    "thumbnail": "vet-health.png",
+    "screenshot": "vet-health-screenshot.jpg",
+    "templateType": "standard",
+    "pageTypes": [
+        "home"
+    ],
     "tags": {
-    "en": ["professional", "clean", "business", "modern", "colorful", "colourful", "stylish", "fresh", "studio", "music", "media", "young", "flexible"],
-    "es": ["profesional", "limpio", "corporativo", "moderno", "colorido", "estilo", "fresco", "estudio", "música", "comunicacion", "joven", "flexible"],
-    "br": ["profissional", "limpo", "corporativo", "moderno", "colorido", "estilo", "revigorado", "estúdio", "música", "mídia", "jovem", "flexível"]
+        "en": [
+            "professional",
+            "clean",
+            "business",
+            "modern",
+            "colorful",
+            "colourful",
+            "stylish",
+            "fresh",
+            "studio",
+            "music",
+            "media",
+            "young",
+            "flexible"
+        ],
+        "es": [
+            "profesional",
+            "limpio",
+            "corporativo",
+            "moderno",
+            "colorido",
+            "estilo",
+            "fresco",
+            "estudio",
+            "m\u00fasica",
+            "comunicacion",
+            "joven",
+            "flexible"
+        ],
+        "br": [
+            "profissional",
+            "limpo",
+            "corporativo",
+            "moderno",
+            "colorido",
+            "estilo",
+            "revigorado",
+            "est\u00fadio",
+            "m\u00fasica",
+            "m\u00eddia",
+            "jovem",
+            "flex\u00edvel"
+        ]
     },
-    "colorSwatches":
-    {
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#ffffff",
-            "color2":"#5AC40C",
-            "color3":"#83c028",
-            "color4":"#2A2E36",
-            "color5":"#b4bec7",
-            "color6":"#3B5999",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#5AC40C",
+            "color3": "#83c028",
+            "color4": "#2A2E36",
+            "color5": "#b4bec7",
+            "color6": "#3B5999",
+            "color7": "#ffffff"
         },
         "Swatch 2": {
-            "color1":"#ffffff",
-            "color2":"#fad247",
-            "color3":"#ff563e",
-            "color4":"#1b3942",
-            "color5":"#b4bec7",
-            "color6":"#434f5b",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#fad247",
+            "color3": "#ff563e",
+            "color4": "#1b3942",
+            "color5": "#b4bec7",
+            "color6": "#434f5b",
+            "color7": "#ffffff"
         },
         "Swatch 3": {
-            "color1":"#ffffff",
-            "color2":"#71d36b",
-            "color3":"#fa9245",
-            "color4":"#272a27",
-            "color5":"#b4bec7",
-            "color6":"#454f45",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#71d36b",
+            "color3": "#fa9245",
+            "color4": "#272a27",
+            "color5": "#b4bec7",
+            "color6": "#454f45",
+            "color7": "#ffffff"
         },
         "Swatch 4": {
-            "color1":"#ffffff",
-            "color2":"#f67f6e",
-            "color3":"#84d1cb",
-            "color4":"#3a3838",
-            "color5":"#b4bec7",
-            "color6":"#3a3838",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#f67f6e",
+            "color3": "#84d1cb",
+            "color4": "#3a3838",
+            "color5": "#b4bec7",
+            "color6": "#3a3838",
+            "color7": "#ffffff"
         },
         "Swatch 5": {
-            "color1":"#ffffff",
-            "color2":"#919aa2",
-            "color3":"#70acde",
-            "color4":"#2f353e",
-            "color5":"#b4bec7",
-            "color6":"#434f5b",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#919aa2",
+            "color3": "#70acde",
+            "color4": "#2f353e",
+            "color5": "#b4bec7",
+            "color6": "#434f5b",
+            "color7": "#ffffff"
         }
     },
     "fontSwatch": {
-       "title": "Raleway",
+        "title": "Raleway",
         "font1": {
             "font-family": "\"Bree Serif\", \"Merriweather\", Georgia, serif",
             "font-size": "36px",
